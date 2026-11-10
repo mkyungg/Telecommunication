@@ -35,3 +35,5 @@ plt.title('Demodulated Signal')
 
 plt.tight_layout()
 plt.show()
+
+#26/11/10수정함
